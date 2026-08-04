@@ -475,6 +475,8 @@ https://video1.tizam.cc/films/corporate_bonding.mp4
 https://video1.tizam.cc/vk/Corruption_Rus.mp4
 #EXTINF:-1 tvg-id="Красивые иностранки" tvg-name="Красивые иностранки" tvg-logo="" group-title="XXX 18+",Красивые иностранки
 https://video1.tizam.cc/films/Les-Belles-Etrange.mp4
+#EXTINF:-1 tvg-id="Красная линия" tvg-name="Красная линия" tvg-logo="https://iptvx.one/picons/krasnaya-linia.png" group-title="Общественные",Красная линия
+https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Красная Орхидея" tvg-name="Красная Орхидея" tvg-logo="" group-title="XXX 18+",Красная Орхидея
 https://video2.tizam.cc/films/Red-Orchid.mp4
 #EXTINF:-1 tvg-id="Краснодар" tvg-name="Краснодар" tvg-logo="https://iptvx.one/picons/krasnodar.png" group-title="Региональные",Краснодар
@@ -1027,5 +1029,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_U_4/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
 #EXTINF:-1 tvg-id="Ю ТВ" tvg-name="Ю ТВ" tvg-logo="https://iptvx.one/picons/yu.png" group-title="Развлекательные",Ю ТВ
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R03_U_SPB/variant.m3u8
+#EXTINF:-1 tvg-id="Юмор FM" tvg-name="Юмор FM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Yumor_FM_logo_2015.png" group-title="Радио",Юмор FM
+http://live.humorfm.by:8000/veseloe.m3u
 #EXTINF:-1 tvg-id="Яблоко от яблони" tvg-name="Яблоко от яблони" tvg-logo="" group-title="XXX 18+",Яблоко от яблони
 https://video3.tizam.cc/films/chip-off-the-ol-block-russ.mp4
