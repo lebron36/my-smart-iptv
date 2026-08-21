@@ -71,8 +71,6 @@ http://89.38.8.130:39435
 https://video1.tizam.cc/films/PrivateMovies41FuckyNewYear.mp4
 #EXTINF:-1 tvg-id="Private Film 25 Apocalypse Climax" tvg-name="Private Film 25 Apocalypse Climax" tvg-logo="" group-title="XXX 18+",Private Film 25 Apocalypse Climax
 https://video1.tizam.cc/films/Apocalypse-Climax1.mp4
-#EXTINF:-1 tvg-id="Qazaqstan International" tvg-name="Qazaqstan International" tvg-logo="https://cdn.qazaqstan.tv/qazaqstan.png?w=420&h=196&format=png&resize=aspectfill&g=centeralt=" group-title="Новости",Qazaqstan International
-https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8
 #EXTINF:-1 tvg-id="Real Madrid" tvg-name="Real Madrid" tvg-logo="https://epg.iptvx.one/picons/real-madrid-tv.png" group-title="Спортивные",Real Madrid
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 #EXTINF:-1 tvg-id="RTД" tvg-name="RTД" tvg-logo="https://iptvx.one/picons/rt-doc.png" group-title="Общественные",RTД
@@ -109,8 +107,6 @@ http://stream.mcquack.net/200/index.m3u8
 http://192.162.64.99:5200/play/a02f/index.m3u8
 #EXTINF:-1 tvg-id="Viju+ Premiere HD" tvg-name="Viju+ Premiere HD" tvg-logo="https://iptvx.one/picons/vip-premiere.png" group-title="Премьеры и хиты",Viju+ Premiere HD
 http://stream.mcquack.net/202/index.m3u8
-#EXTINF:-1 tvg-id="World Fashion Channel" tvg-name="World Fashion Channel" tvg-logo="https://iptvx.one/picons/world-fashion-channel.png" group-title="Досуг",World Fashion Channel
-http://live-3.otcnet.ru/wfcrus/index.m3u8
 #EXTINF:-1 tvg-id="Автобус Секса" tvg-name="Автобус Секса" tvg-logo="" group-title="XXX 18+",Автобус Секса
 https://video1.tizam.cc/files/2435684/the_sex_bus.mp4
 #EXTINF:-1 tvg-id="Авторадио" tvg-name="Авторадио" tvg-logo="https://epgx.site/p/avtoradio.png" group-title="Радио",Авторадио
@@ -161,8 +157,6 @@ https://edge55.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/chunklist_w_b
 https://edge50.dc.beltelecom.by/ngtrk/smil:belarus2.smil/chunklist_b5160000_sleng.m3u8
 #EXTINF:-1 tvg-id="Беларусь 24" tvg-name="Беларусь 24" tvg-logo="https://iptvx.one/picons/belarus24.png" group-title="Беларусь",Беларусь 24
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Беларусь 3 HD" tvg-name="Беларусь 3 HD" tvg-logo="https://iptvx.one/picons/belarus3hd.png" group-title="Беларусь",Беларусь 3 HD
-https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3.smil/chunklist_w1684528521_b5160000_sleng.m3u8
 #EXTINF:-1 tvg-id="Беларусь 5" tvg-name="Беларусь 5" tvg-logo="https://iptvx.one/picons/belarus5hd.png" group-title="Спортивные",Беларусь 5
 https://edge50.dc.beltelecom.by/ngtrk/smil:belarus5.smil/chunklist_b2660000_sleng.m3u8
 #EXTINF:-1 tvg-id="Беларусь 5 HD" tvg-name="Беларусь 5 HD" tvg-logo="https://iptvx.one/picons/belarus5hd.png" group-title="Спортивные",Беларусь 5 HD
