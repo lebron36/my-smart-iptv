@@ -43,8 +43,6 @@ https://video1.tizam.cc/films/anita_dark_navsegda.mp4
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 tvg-id="Bridge" tvg-name="Bridge" tvg-logo="https://iptvx.one/picons/bridge-tv.png" group-title="Музыкальные",Bridge
 http://195.26.83.96:7007/play/a00m/index.m3u8
-#EXTINF:-1 tvg-id="Da Vinci" tvg-name="Da Vinci" tvg-logo="https://epg.iptvx.one/picons/da-vinci.png" group-title="Познавательные",Da Vinci
-http://tv.ttk.mx:9188
 #EXTINF:-1 tvg-id="DanceHits80" tvg-name="DanceHits80" tvg-logo="https://i.imgur.com/uMw3kks.png" group-title="Музыкальные",DanceHits80
 http://dancehits80.denvs.ru:8080/index.m3u8
 #EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="Discovery Channel HD" tvg-logo="https://iptvx.one/picons/discovery-channel.png" group-title="Познавательные",Discovery Channel HD
@@ -59,8 +57,6 @@ http://cef23ac9.rossteleccom.net/iptv/HR5L3HVVC7ZQSVB2DUVSQUH7/144/index.m3u8
 https://s70378.cdn.ngenix.net/fox_life/2/index.m3u8
 #EXTINF:-1 tvg-id="France 24" tvg-name="France 24" tvg-logo="https://iptvx.one/picons/france24.png" group-title="Новости",France 24
 https://ythls.armelin.one/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
-#EXTINF:-1 tvg-id="HollywooD HD" tvg-name="HollywooD HD" tvg-logo="https://iptvx.one/picons/hollywood-hd.png" group-title="Фильмы и сериалы",HollywooD HD
-http://5.188.159.128:8070/HOLLYWOOD_HD/index.m3u8
 #EXTINF:-1 tvg-id="IPTVPLAY Великая Отечественная HD" tvg-name="IPTVPLAY Великая Отечественная HD" tvg-logo="" group-title="Кинозалы",IPTVPLAY Великая Отечественная HD
 http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1 tvg-id="IPTVPLAY МУЛЬТСКАЗКИ HD" tvg-name="IPTVPLAY МУЛЬТСКАЗКИ HD" tvg-logo="" group-title="Кинозалы",IPTVPLAY МУЛЬТСКАЗКИ HD
@@ -219,8 +215,6 @@ https://video2.tizam.cc/files/1097179/voditelskaya_dochka_1chast.mp4
 https://video2.tizam.cc/files/2102618/voennaya_strast.mp4
 #EXTINF:-1 tvg-id="Возвращение Домой" tvg-name="Возвращение Домой" tvg-logo="" group-title="XXX 18+",Возвращение Домой
 https://video2.tizam.cc/files/2212308/rawhide___vozvrashchenie_domoy__2003.mp4
-#EXTINF:-1 tvg-id="Волга" tvg-name="Волга" tvg-logo="https://iptvx.one/picons/volga.png" group-title="Региональные",Волга
-http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist.m3u8
 #EXTINF:-1 tvg-id="Волгоград 24" tvg-name="Волгоград 24" tvg-logo="https://iptvx.one/picons/volgograd-24.png" group-title="Региональные",Волгоград 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/volgograd24-hd/track_102_1f3a2163/chunklist.m3u8
 #EXTINF:-1 tvg-id="Волшебные рисунки" tvg-name="Волшебные рисунки" tvg-logo="" group-title="XXX 18+",Волшебные рисунки
@@ -997,5 +991,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_U_2/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U_4/variant.m3u8
 #EXTINF:-1 tvg-id="Ю (+7)" tvg-name="Ю (+7)" tvg-logo="https://epg.iptvx.one/picons/yu-pl7.png" group-title="Будущее",Ю (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
+#EXTINF:-1 tvg-id="Юмор FM" tvg-name="Юмор FM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Yumor_FM_logo_2015.png" group-title="Радио",Юмор FM
+http://live.humorfm.by:8000/veseloe.m3u
 #EXTINF:-1 tvg-id="Яблоко от яблони" tvg-name="Яблоко от яблони" tvg-logo="" group-title="XXX 18+",Яблоко от яблони
 https://video3.tizam.cc/films/chip-off-the-ol-block-russ.mp4
