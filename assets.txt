@@ -71,6 +71,8 @@ http://89.38.8.130:39435
 https://video1.tizam.cc/films/PrivateMovies41FuckyNewYear.mp4
 #EXTINF:-1 tvg-id="Private Film 25 Apocalypse Climax" tvg-name="Private Film 25 Apocalypse Climax" tvg-logo="" group-title="XXX 18+",Private Film 25 Apocalypse Climax
 https://video1.tizam.cc/films/Apocalypse-Climax1.mp4
+#EXTINF:-1 tvg-id="Qazaqstan International" tvg-name="Qazaqstan International" tvg-logo="https://cdn.qazaqstan.tv/qazaqstan.png?w=420&h=196&format=png&resize=aspectfill&g=centeralt=" group-title="Новости",Qazaqstan International
+https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8
 #EXTINF:-1 tvg-id="Real Madrid" tvg-name="Real Madrid" tvg-logo="https://epg.iptvx.one/picons/real-madrid-tv.png" group-title="Спортивные",Real Madrid
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 #EXTINF:-1 tvg-id="RTД" tvg-name="RTД" tvg-logo="https://iptvx.one/picons/rt-doc.png" group-title="Общественные",RTД
@@ -305,8 +307,6 @@ https://video1.tizam.cc/vk/House-Of-Dreams.mp4
 http://cef23ac9.rossteleccom.net/iptv/HR5L3HVVC7ZQSVB2DUVSQUH7/158/index.m3u8
 #EXTINF:-1 tvg-id="Домашний" tvg-name="Домашний" tvg-logo="https://iptvx.one/picons/domashny.png" group-title="Общественные",Домашний
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
-#EXTINF:-1 tvg-id="Домашний +2" tvg-name="Домашний +2" tvg-logo="https://epg.iptvx.one/picons/domashny-pl2.png" group-title="Будущее",Домашний +2
-https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_DOMASHNY_EKT/variant.m3u8
 #EXTINF:-1 tvg-id="Домашний +4" tvg-name="Домашний +4" tvg-logo="https://epg.iptvx.one/picons/domashny-pl4.png" group-title="Будущее",Домашний +4
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY_4/variant.m3u8
 #EXTINF:-1 tvg-id="Домашний +7" tvg-name="Домашний +7" tvg-logo="https://epg.iptvx.one/picons/domashny-pl7.png" group-title="Будущее",Домашний +7
@@ -647,8 +647,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
 #EXTINF:-1 tvg-id="Первый вегетарианский" tvg-name="Первый вегетарианский" tvg-logo="https://iptvx.one/picons/pervy-vegetariansky.png" group-title="Досуг",Первый вегетарианский
 http://cef23ac9.rossteleccom.net/iptv/HR5L3HVVC7ZQSVB2DUVSQUH7/833/index.m3u8
-#EXTINF:-1 tvg-id="Первый информационный" tvg-name="Первый информационный" tvg-logo="https://iptvx.one/picons/pervy-info-by.png" group-title="Новости",Первый информационный
-https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Первый канал (+4)" tvg-name="Первый канал (+4)" tvg-logo="https://epg.iptvx.one/picons/pervy-pl4.png" group-title="Будущее",Первый канал (+4)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_4/variant.m3u8
 #EXTINF:-1 tvg-id="Первый канал (+6)" tvg-name="Первый канал (+6)" tvg-logo="https://epg.iptvx.one/picons/pervy-pl6.png" group-title="Будущее",Первый канал (+6)
@@ -847,10 +845,12 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
 http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Сплетник" tvg-name="Сплетник" tvg-logo="" group-title="XXX 18+",Сплетник
 https://video1.tizam.cc/vk/tattle_tale.mp4
+#EXTINF:-1 tvg-id="СТВ Беларусь" tvg-name="СТВ Беларусь" tvg-logo="https://iptvx.one/picons/stv-by.png" group-title="Беларусь",СТВ Беларусь
+http://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Страна FM" tvg-name="Страна FM" tvg-logo="https://iptvx.one/picons/radio-strana-fm-tv.png" group-title="Музыкальные",Страна FM
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="СТС" tvg-name="СТС" tvg-logo="https://epg.iptvx.one/picons/sts.png" group-title="Развлекательные",СТС
-https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
+https://streaming.televizor-24-tochka.ru/live/296.m3u8
 #EXTINF:-1 tvg-id="СТС (+2)" tvg-name="СТС (+2)" tvg-logo="https://epg.iptvx.one/picons/sts-pl2.png" group-title="Будущее",СТС (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/variant.m3u8
 #EXTINF:-1 tvg-id="СТС (+4)" tvg-name="СТС (+4)" tvg-logo="https://epg.iptvx.one/picons/sts-pl4.png" group-title="Будущее",СТС (+4)
@@ -991,5 +991,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_U_2/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U_4/variant.m3u8
 #EXTINF:-1 tvg-id="Ю (+7)" tvg-name="Ю (+7)" tvg-logo="https://epg.iptvx.one/picons/yu-pl7.png" group-title="Будущее",Ю (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
+#EXTINF:-1 tvg-id="Юмор FM" tvg-name="Юмор FM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Yumor_FM_logo_2015.png" group-title="Радио",Юмор FM
+http://live.humorfm.by:8000/veseloe.m3u
 #EXTINF:-1 tvg-id="Яблоко от яблони" tvg-name="Яблоко от яблони" tvg-logo="" group-title="XXX 18+",Яблоко от яблони
 https://video3.tizam.cc/films/chip-off-the-ol-block-russ.mp4
