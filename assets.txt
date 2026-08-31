@@ -827,8 +827,6 @@ https://video1.tizam.cc/vk/Quandoledonnelofannodasole.mp4
 https://sitv.ru/vgtrk/stv.m3u8
 #EXTINF:-1 tvg-id="Салям УФА" tvg-name="Салям УФА" tvg-logo="https://iptvx.one/picons/salam.png" group-title="Региональные",Салям УФА
 https://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
-#EXTINF:-1 tvg-id="Саров 24 HD" tvg-name="Саров 24 HD" tvg-logo="https://iptvx.one/picons/sarov-24.png" group-title="Региональные",Саров 24 HD
-http://serv30.vintera.tv:8081/sarov/sarov_stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Своё ТВ Ставрополь" tvg-name="Своё ТВ Ставрополь" tvg-logo="https://iptvx.one/picons/svoyo-tv-stavropol.png" group-title="Региональные",Своё ТВ Ставрополь
 https://svoetv.mediacdn.ru/cdn/svoetv/playlist.m3u8
 #EXTINF:-1 tvg-id="Сделаю Всё - Только Не звони Копам!" tvg-name="Сделаю Всё - Только Не звони Копам!" tvg-logo="" group-title="XXX 18+",Сделаю Всё - Только Не звони Копам!
@@ -843,6 +841,8 @@ https://video2.tizam.cc/files/1641605/sex_therapy.mp4
 https://video1.tizam.cc/films/PrivateTropical31SexualHealing.mp4
 #EXTINF:-1 tvg-id="Семейные грешники" tvg-name="Семейные грешники" tvg-logo="" group-title="XXX 18+",Семейные грешники
 https://video3.tizam.cc/films/daddys-girl-vol-3.mp4
+#EXTINF:-1 tvg-id="Сити Эдем АвтоГид" tvg-name="Сити Эдем АвтоГид" tvg-logo="https://i.imgur.com/qpe8L27.png" group-title="Сити Эдем",Сити Эдем АвтоГид
+https://cityeden.catcast.tv/content/47515/index.m3u8
 #EXTINF:-1 tvg-id="Сити Эдем Бирма Play" tvg-name="Сити Эдем Бирма Play" tvg-logo="https://i.imgur.com/38Q5L5W.png" group-title="Сити Эдем",Сити Эдем Бирма Play
 https://cityeden.catcast.tv/content/34364/index.m3u8
 #EXTINF:-1 tvg-id="Сити Эдем КиноАзия" tvg-name="Сити Эдем КиноАзия" tvg-logo="https://i.imgur.com/gaket4B.png" group-title="Сити Эдем",Сити Эдем КиноАзия
