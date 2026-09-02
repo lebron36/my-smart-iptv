@@ -107,8 +107,6 @@ http://stream.mcquack.net/455/index.m3u8
 https://video1.tizam.cc/films/PrivateMovies41FuckyNewYear.mp4
 #EXTINF:-1 tvg-id="Private Film 25 Apocalypse Climax" tvg-name="Private Film 25 Apocalypse Climax" tvg-logo="" group-title="XXX 18+",Private Film 25 Apocalypse Climax
 https://video1.tizam.cc/films/Apocalypse-Climax1.mp4
-#EXTINF:-1 tvg-id="Qazaqstan International" tvg-name="Qazaqstan International" tvg-logo="https://cdn.qazaqstan.tv/qazaqstan.png?w=420&h=196&format=png&resize=aspectfill&g=centeralt=" group-title="Новости",Qazaqstan International
-https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8
 #EXTINF:-1 tvg-id="Real Madrid" tvg-name="Real Madrid" tvg-logo="https://epg.iptvx.one/picons/real-madrid-tv.png" group-title="Спортивные",Real Madrid
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 #EXTINF:-1 tvg-id="RTG TV" tvg-name="RTG TV" tvg-logo="https://epg.iptvx.one/picons/rtg-tv.png" group-title="Познавательные",RTG TV
@@ -421,6 +419,8 @@ https://video1.tizam.cc/old_films/The-New-Devil-In-Miss-Jones-2005-R-DVDRip.mp4
 https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
 #EXTINF:-1 tvg-id="Еврокино HD" tvg-name="Еврокино HD" tvg-logo="https://iptvx.one/picons/eurokino.png" group-title="Фильмы и сериалы",Еврокино HD
 http://stream.mcquack.net/385/index.m3u8
+#EXTINF:-1 tvg-id="Енисей регион" tvg-name="Енисей регион" tvg-logo="https://iptvx.one/picons/enisey-region.png" group-title="Региональные",Енисей регион
+https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="Женская Тюрьма" tvg-name="Женская Тюрьма" tvg-logo="" group-title="XXX 18+",Женская Тюрьма
 https://video2.tizam.cc/files/2301955/unizheniya_v_zhenskoy_tyurme___penitenziario_femminile_1995.mp4
 #EXTINF:-1 tvg-id="Женщина в красном" tvg-name="Женщина в красном" tvg-logo="" group-title="XXX 18+",Женщина в красном
@@ -495,8 +495,6 @@ https://video3.tizam.cc/films/how-to-train-a-hotwife-2-porn.mp4
 http://serv25.vintera.tv:8081/kaleidoscop/kaleidoscop_sd/playlist.m3u8
 #EXTINF:-1 tvg-id="Камчатка HD" tvg-name="Камчатка HD" tvg-logo="https://epg.iptvx.one/picons/kamcha-1.png" group-title="Региональные",Камчатка HD
 https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_KAMCHATKA/variant.m3u8
-#EXTINF:-1 tvg-id="Карусель" tvg-name="Карусель" tvg-logo="https://iptvx.one/picons/karusel.png" group-title="Детские",Карусель
-http://185.37.150.46/Karusel/index.m3u8
 #EXTINF:-1 tvg-id="Кастинг Пьера Вудмана 24" tvg-name="Кастинг Пьера Вудмана 24" tvg-logo="" group-title="XXX 18+",Кастинг Пьера Вудмана 24
 https://video2.tizam.cc/files/2386082/kasting_pera_vudmana_24__s_russkim_perevodom.mp4
 #EXTINF:-1 tvg-id="Кастинг Пьера Вудмана 27" tvg-name="Кастинг Пьера Вудмана 27" tvg-logo="" group-title="XXX 18+",Кастинг Пьера Вудмана 27
