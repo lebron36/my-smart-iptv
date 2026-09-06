@@ -117,6 +117,8 @@ http://stream.mcquack.net/455/index.m3u8
 https://video1.tizam.cc/films/PrivateMovies41FuckyNewYear.mp4
 #EXTINF:-1 tvg-id="Private Film 25 Apocalypse Climax" tvg-name="Private Film 25 Apocalypse Climax" tvg-logo="" group-title="XXX 18+",Private Film 25 Apocalypse Climax
 https://video1.tizam.cc/films/Apocalypse-Climax1.mp4
+#EXTINF:-1 tvg-id="Qazaqstan International" tvg-name="Qazaqstan International" tvg-logo="https://cdn.qazaqstan.tv/qazaqstan.png?w=420&h=196&format=png&resize=aspectfill&g=centeralt=" group-title="Новости",Qazaqstan International
+https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8
 #EXTINF:-1 tvg-id="RAZ 1" tvg-name="RAZ 1" tvg-logo="https://epg.iptvx.one/picons/raz1.png" group-title="Развлекательные",RAZ 1
 http://stream.mcquack.net/463/index.m3u8
 #EXTINF:-1 tvg-id="RAZ 2" tvg-name="RAZ 2" tvg-logo="https://epg.iptvx.one/picons/raz2.png" group-title="Развлекательные",RAZ 2
@@ -371,8 +373,6 @@ https://video2.tizam.cc/files/2284683/malyshki_za_50.mp4
 https://video2.tizam.cc/files/1605326/devushki_iz_vysshego_obshchestva.mp4
 #EXTINF:-1 tvg-id="Девушки Мафии (2007)" tvg-name="Девушки Мафии (2007)" tvg-logo="" group-title="XXX 18+",Девушки Мафии (2007)
 https://video3.tizam.cc/films/mafia-girlz-porn.mp4
-#EXTINF:-1 tvg-id="Девятка" tvg-name="Девятка" tvg-logo="https://iptvx.one/picons/deviatka.png" group-title="Развлекательные",Девятка
-http://devyatka.iptv2022.com/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Деньги Ненужны Секс Бесплатный" tvg-name="Деньги Ненужны Секс Бесплатный" tvg-logo="" group-title="XXX 18+",Деньги Ненужны Секс Бесплатный
 https://video2.tizam.cc/files/2105633/private_money_for_nothing_sex_for_free.mp4
 #EXTINF:-1 tvg-id="Детский мир" tvg-name="Детский мир" tvg-logo="https://iptvx.one/picons/detsky-mir.png" group-title="Детские",Детский мир
@@ -529,8 +529,6 @@ https://video1.tizam.cc//films/Quartet.mp4
 http://178.124.179.122:8080/KVN-TV/index.m3u8
 #EXTINF:-1 tvg-id="Кино 1 International" tvg-name="Кино 1 International" tvg-logo="https://epg.iptvx.one/picons/kino1int-tviksel.png" group-title="Фильмы и сериалы",Кино 1 International
 http://kino-1.catcast.tv/content/38617/index.m3u8
-#EXTINF:-1 tvg-id="Кино ТВ" tvg-name="Кино ТВ" tvg-logo="https://iptvx.one/picons/kino-tv.png" group-title="Фильмы и сериалы",Кино ТВ
-http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Кинокомедия" tvg-name="Кинокомедия" tvg-logo="https://epg.iptvx.one/picons/kinokomedia.png" group-title="Фильмы и сериалы",Кинокомедия
 https://stream8.cinerama.uz/1232/index.m3u8
 #EXTINF:-1 tvg-id="Киномикс" tvg-name="Киномикс" tvg-logo="https://epg.iptvx.one/picons/kinomiks.png" group-title="Фильмы и сериалы",Киномикс
@@ -543,8 +541,6 @@ https://stream8.cinerama.uz/1207/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1203/index.m3u8
 #EXTINF:-1 tvg-id="Киносерия" tvg-name="Киносерия" tvg-logo="https://epg.iptvx.one/picons/kinoseria.png" group-title="Фильмы и сериалы",Киносерия
 https://stream8.cinerama.uz/1235/index.m3u8
-#EXTINF:-1 tvg-id="КиноТВ" tvg-name="КиноТВ" tvg-logo="https://epg.iptvx.one/picons/kino-tv.png" group-title="Фильмы и сериалы",КиноТВ
-https://vod.tuva.ru/kinotv/index.m3u8
 #EXTINF:-1 tvg-id="Киноужас" tvg-name="Киноужас" tvg-logo="https://epg.iptvx.one/picons/kinouzhas.png" group-title="Фильмы и сериалы",Киноужас
 http://stream.mcquack.net/278/index.m3u8
 #EXTINF:-1 tvg-id="Кинохит HD" tvg-name="Кинохит HD" tvg-logo="https://epg.iptvx.one/picons/kinoxit.png" group-title="Премьеры и хиты",Кинохит HD
@@ -687,6 +683,8 @@ https://video2.tizam.cc/films/Covergirl.mp4
 https://video3.tizam.cc/films/my-very-first-time-porn-rus.mp4
 #EXTINF:-1 tvg-id="Молодые любят погорячее" tvg-name="Молодые любят погорячее" tvg-logo="" group-title="XXX 18+",Молодые любят погорячее
 https://video2.tizam.cc/films/The-Young-Like-It-Hot.mp4
+#EXTINF:-1 tvg-id="Мордовия 24" tvg-name="Мордовия 24" tvg-logo="https://iptvx.one/picons/mordovia-24.png" group-title="Региональные",Мордовия 24
+https://live-mordovia24.cdnvideo.ru/mordovia24/streamtr/playlist.m3u8
 #EXTINF:-1 tvg-id="Морозные Ангелы" tvg-name="Морозные Ангелы" tvg-logo="" group-title="XXX 18+",Морозные Ангелы
 https://video1.tizam.cc/vk/EiskalteAngel.mp4
 #EXTINF:-1 tvg-id="Москва 24" tvg-name="Москва 24" tvg-logo="https://iptvx.one/picons/moskva-24.png" group-title="Региональные",Москва 24
@@ -729,8 +727,6 @@ http://stream.mcquack.net/419/index.m3u8
 https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Настоящее время [СМИ иногент] заблокировали" tvg-name="Настоящее время [СМИ иногент] заблокировали" tvg-logo="https://iptvx.one/picons/nastoiaschee-vremia.png" group-title="Общественные",Настоящее время [СМИ иногент] заблокировали
 https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
-#EXTINF:-1 tvg-id="Наука 2.0 HD" tvg-name="Наука 2.0 HD" tvg-logo="https://iptvx.one/picons/nauka-20.png" group-title="Познавательные",Наука 2.0 HD
-https://vod.tuva.ru/nauka2/index.m3u8
 #EXTINF:-1 tvg-id="Наш кинопоказ HD" tvg-name="Наш кинопоказ HD" tvg-logo="https://iptvx.one/picons/nash-kinopokaz.png" group-title="Фильмы и сериалы",Наш кинопоказ HD
 http://cef23ac9.rossteleccom.net/iptv/HR5L3HVVC7ZQSVB2DUVSQUH7/2434/index.m3u8
 #EXTINF:-1 tvg-id="Наше мужское HD" tvg-name="Наше мужское HD" tvg-logo="https://epg.iptvx.one/picons/nashe-muzhskoe-hd.png" group-title="Фильмы и сериалы",Наше мужское HD
@@ -961,8 +957,6 @@ https://video2.tizam.cc/files/2298183/russkiy_institut_4__russkiy_perevod.mp4
 https://video2.tizam.cc/files/2412734/russkiy_institut_urok_17__seks_urok.mp4
 #EXTINF:-1 tvg-id="Русский панк" tvg-name="Русский панк" tvg-logo="https://i.imgur.com/pLM7Lj7.png" group-title="Радио",Русский панк
 http://79.120.77.11:8000/punkru
-#EXTINF:-1 tvg-id="Русский роман" tvg-name="Русский роман" tvg-logo="https://iptvx.one/picons/russky-roman.png" group-title="Фильмы и сериалы",Русский роман
-http://vod.tuva.ru/rusroman/index.m3u8
 #EXTINF:-1 tvg-id="Русское радио" tvg-name="Русское радио" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-russkoe-radio.png" group-title="Радио",Русское радио
 http://rusradio.hostingradio.ru/rusradio96.aacp
 #EXTINF:-1 tvg-id="Рыжие Бесстыжие" tvg-name="Рыжие Бесстыжие" tvg-logo="" group-title="XXX 18+",Рыжие Бесстыжие
@@ -1135,6 +1129,8 @@ https://stream8.cinerama.uz/1037/index.m3u8
 http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="ТНВ Планета" tvg-name="ТНВ Планета" tvg-logo="https://epg.iptvx.one/picons/tnv.png" group-title="Региональные",ТНВ Планета
 http://planeta.mediacdn.ru/cdn/tnvplanet/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ТНВ Татарстан" tvg-name="ТНВ Татарстан" tvg-logo="https://epg.iptvx.one/picons/tnv-tat.png" group-title="Региональные",ТНВ Татарстан
+http://user91229.clients-cdnnow.ru/hls/user91229_1_720/index.m3u8
 #EXTINF:-1 tvg-id="ТНТ (+2)" tvg-name="ТНТ (+2)" tvg-logo="https://epg.iptvx.one/picons/tnt-pl2.png" group-title="Будущее",ТНТ (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8
 #EXTINF:-1 tvg-id="ТНТ (+4)" tvg-name="ТНТ (+4)" tvg-logo="https://epg.iptvx.one/picons/tnt-pl4.png" group-title="Будущее",ТНТ (+4)
