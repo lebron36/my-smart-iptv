@@ -245,8 +245,6 @@ https://video2.tizam.cc/files/2102634/annina__besedy_o_sekse.mp4
 https://video2.tizam.cc/files/2379645/annina_superzvezda___annina_superstar.mp4
 #EXTINF:-1 tvg-id="Антидевственница" tvg-name="Антидевственница" tvg-logo="" group-title="XXX 18+",Антидевственница
 https://video1.tizam.cc/films/VirginWhore.mp4
-#EXTINF:-1 tvg-id="Арис 24" tvg-name="Арис 24" tvg-logo="https://epg.iptvx.one/picons/aris24.png" group-title="Региональные",Арис 24
-https://bl.rutube.ru/livestream/9b482361d6c845f7d70eafc98356d8bf/index.m3u8?s=92J55630qJZPz9iiIJZpVw&e=2076071194&scheme=https
 #EXTINF:-1 tvg-id="Аромат Матильды" tvg-name="Аромат Матильды" tvg-logo="" group-title="XXX 18+",Аромат Матильды
 https://video1.tizam.cc/old_films/aromat_matil_dy.mp4
 #EXTINF:-1 tvg-id="Архыз 24" tvg-name="Архыз 24" tvg-logo="https://iptvx.one/picons/arxyz24.png" group-title="Региональные",Архыз 24
@@ -397,14 +395,10 @@ https://video2.tizam.cc/files/2284683/malyshki_za_50.mp4
 https://video2.tizam.cc/files/1605326/devushki_iz_vysshego_obshchestva.mp4
 #EXTINF:-1 tvg-id="Девушки Мафии (2007)" tvg-name="Девушки Мафии (2007)" tvg-logo="" group-title="XXX 18+",Девушки Мафии (2007)
 https://video3.tizam.cc/films/mafia-girlz-porn.mp4
-#EXTINF:-1 tvg-id="Девятка" tvg-name="Девятка" tvg-logo="https://iptvx.one/picons/deviatka.png" group-title="Развлекательные",Девятка
-http://devyatka.iptv2022.com/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Деньги Ненужны Секс Бесплатный" tvg-name="Деньги Ненужны Секс Бесплатный" tvg-logo="" group-title="XXX 18+",Деньги Ненужны Секс Бесплатный
 https://video2.tizam.cc/files/2105633/private_money_for_nothing_sex_for_free.mp4
 #EXTINF:-1 tvg-id="Детский мир" tvg-name="Детский мир" tvg-logo="https://iptvx.one/picons/detsky-mir.png" group-title="Детские",Детский мир
 http://195.26.83.96:7007/play/14/index.m3u8
-#EXTINF:-1 tvg-id="Детское кино Int" tvg-name="Детское кино Int" tvg-logo="https://iptvx.one/picons/detkinoint-tviksel.png" group-title="Детские",Детское кино Int
-https://v2.catcast.tv/content/38720/index.m3u8
 #EXTINF:-1 tvg-id="Дешевая выпивка и Сигареты" tvg-name="Дешевая выпивка и Сигареты" tvg-logo="" group-title="XXX 18+",Дешевая выпивка и Сигареты
 https://video1.tizam.cc/vk/CheapBoozeandCigarettes.mp4
 #EXTINF:-1 tvg-id="Джекилл и папаня" tvg-name="Джекилл и папаня" tvg-logo="" group-title="XXX 18+",Джекилл и папаня
@@ -793,6 +787,8 @@ https://rt-ct-tamb-htlive.cdn.ngenix.net/hls/CH_R03_OTT_CT_TAMB_NOVIY_VEK/varian
 http://hls127.freeott.top:8080/Nostalgiya/video.m3u8
 #EXTINF:-1 tvg-id="Ночи Президента" tvg-name="Ночи Президента" tvg-logo="" group-title="XXX 18+",Ночи Президента
 https://video1.tizam.cc/files/2434264/les_nuits_de_la_presidente.mp4
+#EXTINF:-1 tvg-id="НТВ" tvg-name="НТВ" tvg-logo="https://iptvx.one/picons/ntv.png" group-title="Общественные",НТВ
+http://tv.ttk.mx:9003
 #EXTINF:-1 tvg-id="НТВ +1" tvg-name="НТВ +1" tvg-logo="https://epg.iptvx.one/picons/ntv-pl1.png" group-title="Будущее",НТВ +1
 https://cdn.ntv.ru/ntv1/playlist.m3u8
 #EXTINF:-1 tvg-id="НТВ +2" tvg-name="НТВ +2" tvg-logo="https://epg.iptvx.one/picons/ntv-pl2.png" group-title="Будущее",НТВ +2
@@ -1247,12 +1243,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_U_2/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U_4/variant.m3u8
 #EXTINF:-1 tvg-id="Ю (+7)" tvg-name="Ю (+7)" tvg-logo="https://epg.iptvx.one/picons/yu-pl7.png" group-title="Будущее",Ю (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
-#EXTINF:-1 tvg-id="Ю ТВ rutube" tvg-name="Ю ТВ rutube" tvg-logo="https://iptvx.one/picons/yu.png" group-title="Развлекательные",Ю ТВ rutube
-https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?e=2066519758&s=9cPc1rCGu6M932eqrifRhQ&scheme=https
-#EXTINF:-1 tvg-id="Югра" tvg-name="Югра" tvg-logo="https://iptvx.one/picons/yugra.png" group-title="Региональные",Югра
-https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8
-#EXTINF:-1 tvg-id="Юмор FM" tvg-name="Юмор FM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Yumor_FM_logo_2015.png" group-title="Радио",Юмор FM
-http://live.humorfm.by:8000/veseloe.m3u
 #EXTINF:-1 tvg-id="Яблоко от яблони" tvg-name="Яблоко от яблони" tvg-logo="" group-title="XXX 18+",Яблоко от яблони
 https://video3.tizam.cc/films/chip-off-the-ol-block-russ.mp4
 #EXTINF:-1 tvg-id="Якутия 24" tvg-name="Якутия 24" tvg-logo="https://epg.iptvx.one/picons/yakutia24.png" group-title="Региональные",Якутия 24
