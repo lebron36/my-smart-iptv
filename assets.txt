@@ -77,8 +77,6 @@ http://stream.mcquack.net/182/index.m3u8
 http://stream.mcquack.net/129/index.m3u8
 #EXTINF:-1 tvg-id="Fox News Channel" tvg-name="Fox News Channel" tvg-logo="https://iptvx.one/picons/fox-news-us.png" group-title="Новости",Fox News Channel
 http://45.190.28.50/FOX_NEWS/index.m3u8
-#EXTINF:-1 tvg-id="GLN 24 (Геленджик)" tvg-name="GLN 24 (Геленджик)" tvg-logo="https://epg.iptvx.one/picons/gln24.png" group-title="Региональные",GLN 24 (Геленджик)
-http://serv25.vintera.tv:8081/gelendzhik/stream_1/playlist.m3u8
 #EXTINF:-1 tvg-id="Hit FM" tvg-name="Hit FM" tvg-logo="https://i.imgur.com/QwqM5j6.png" group-title="Музыкальные",Hit FM
 https://hitfm.nfthost.net/hls/hitfm/live_all/playlist.m3u8
 #EXTINF:-1 tvg-id="HollywooD HD" tvg-name="HollywooD HD" tvg-logo="https://iptvx.one/picons/hollywood-hd.png" group-title="Фильмы и сериалы",HollywooD HD
@@ -91,6 +89,8 @@ http://stream.mcquack.net/178/index.m3u8
 http://stream.mcquack.net/395/index.m3u8
 #EXTINF:-1 tvg-id="Kino 2" tvg-name="Kino 2" tvg-logo="https://epg.iptvx.one/picons/kino2-tviksel.png" group-title="Фильмы и сериалы",Kino 2
 http://stream.mcquack.net/465/index.m3u8
+#EXTINF:-1 tvg-id="Kino24" tvg-name="Kino24" tvg-logo="https://iptvx.one/picons/kino-24.png" group-title="Фильмы и сериалы",Kino24
+http://192.162.64.99:5200/play/a01w/index.m3u8
 #EXTINF:-1 tvg-id="Koмедийное HD" tvg-name="Koмедийное HD" tvg-logo="https://i.imgur.com/cEKe8XC.png" group-title="Фильмы и сериалы",Koмедийное HD
 http://stream.mcquack.net/74/index.m3u8
 #EXTINF:-1 tvg-id="KTK HD" tvg-name="KTK HD" tvg-logo="https://i.imgur.com/BurrNTo.png" group-title="Фильмы и сериалы",KTK HD
@@ -181,18 +181,6 @@ http://stream.mcquack.net/152/index.m3u8
 https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
 #EXTINF:-1 tvg-id="Ultra" tvg-name="Ultra" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-radio-ultra.png" group-title="Радио",Ultra
 http://nashe1.hostingradio.ru/ultra-64.mp3
-#EXTINF:-1 tvg-id="Velvet. Золотая коллекция" tvg-name="Velvet. Золотая коллекция" tvg-logo="https://interra-cdn-europe1.b-cdn.net/zolo.png" group-title="Кинозалы",Velvet. Золотая коллекция
-https://cdn.rostelekom-tv.xyz/live/v804qFZr0QVQ1s9Z.m3u8
-#EXTINF:-1 tvg-id="Velvet. Ментовские сериалы" tvg-name="Velvet. Ментовские сериалы" tvg-logo="https://interra-cdn-europe1.b-cdn.net/ment.png" group-title="Кинозалы",Velvet. Ментовские сериалы
-https://cdn.rostelekom-tv.xyz/live/tWQ0ge9rspBQhRst.m3u8
-#EXTINF:-1 tvg-id="Velvet. Мировые сириалы" tvg-name="Velvet. Мировые сириалы" tvg-logo="https://antiabuse-container.b-cdn.net/mirseriallogo.png" group-title="Кинозалы",Velvet. Мировые сириалы
-https://cdn.rostelekom-tv.xyz/live/2RR44py-yGlIWQIp.m3u8
-#EXTINF:-1 tvg-id="Velvet. Сваты" tvg-name="Velvet. Сваты" tvg-logo="https://interra-cdn-europe1.b-cdn.net/svatyv.png" group-title="Кинозалы",Velvet. Сваты
-https://cdn.rostelekom-tv.xyz/live/HSxyMqDlSVR54UTN.m3u8
-#EXTINF:-1 tvg-id="Velvet. Советское кино" tvg-name="Velvet. Советское кино" tvg-logo="https://interra-cdn-europe1.b-cdn.net/soviet.png" group-title="Кинозалы",Velvet. Советское кино
-https://cdn.rostelekom-tv.xyz/live/nF4sFCa49nFPHSF_.m3u8
-#EXTINF:-1 tvg-id="Velvet. Ужасы" tvg-name="Velvet. Ужасы" tvg-logo="https://antiabuse-container.b-cdn.net/uzh1.png" group-title="Кинозалы",Velvet. Ужасы
-https://cdn.rostelekom-tv.xyz/live/NImhIFLevxCbtcP-.m3u8
 #EXTINF:-1 tvg-id="Viasat Explore HD" tvg-name="Viasat Explore HD" tvg-logo="https://iptvx.one/picons/viasat-explore.png" group-title="Познавательные",Viasat Explore HD
 http://stream.mcquack.net/239/index.m3u8
 #EXTINF:-1 tvg-id="Viasat History HD" tvg-name="Viasat History HD" tvg-logo="https://iptvx.one/picons/viasat-history.png" group-title="Познавательные",Viasat History HD
@@ -683,6 +671,8 @@ https://video3.tizam.cc/films/my-sons-best-friends-rus.mp4
 https://video2.tizam.cc/files/1650560/luchshie_orgii_ot_privat.mp4
 #EXTINF:-1 tvg-id="Лучший Друг Навсегда" tvg-name="Лучший Друг Навсегда" tvg-logo="" group-title="XXX 18+",Лучший Друг Навсегда
 https://video1.tizam.cc/old_films/BFFS.mp4
+#EXTINF:-1 tvg-id="Любимое HD" tvg-name="Любимое HD" tvg-logo="https://epg.iptvx.one/picons/nashe-lubimoe-hd.png" group-title="Фильмы и сериалы",Любимое HD
+http://192.162.64.99:5100/play/a02w/index.m3u8
 #EXTINF:-1 tvg-id="Любовь в лифте" tvg-name="Любовь в лифте" tvg-logo="" group-title="XXX 18+",Любовь в лифте
 https://video1.tizam.cc/films/Love-In-An-Elevator.mp4
 #EXTINF:-1 tvg-id="Мадам Желание" tvg-name="Мадам Желание" tvg-logo="" group-title="XXX 18+",Мадам Желание
@@ -1231,8 +1221,6 @@ https://video1.tizam.cc/films/fantazii_v_kozhe_2.mp4
 https://video1.tizam.cc/films/Faust.mp4
 #EXTINF:-1 tvg-id="Хит FM" tvg-name="Хит FM" tvg-logo="https://epgx.site/p/xit-fm.png" group-title="Радио",Хит FM
 http://hitfm.hostingradio.ru/hitfm96.aacp
-#EXTINF:-1 tvg-id="хиты" tvg-name="хиты" tvg-logo="https://antiabuse-container.b-cdn.net/serialyhity.png" group-title="Кинозалы",хиты
-https://cdn.rostelekom-tv.xyz/live/DeWr3Sgw1Aj2lJd0.m3u8
 #EXTINF:-1 tvg-id="Че!" tvg-name="Че!" tvg-logo="https://iptvx.one/picons/che.png" group-title="Развлекательные",Че!
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
 #EXTINF:-1 tvg-id="Че! (+2)" tvg-name="Че! (+2)" tvg-logo="https://epg.iptvx.one/picons/che-pl2.png" group-title="Будущее",Че! (+2)
@@ -1263,8 +1251,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
 https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?e=2066519758&s=9cPc1rCGu6M932eqrifRhQ&scheme=https
 #EXTINF:-1 tvg-id="Югра" tvg-name="Югра" tvg-logo="https://iptvx.one/picons/yugra.png" group-title="Региональные",Югра
 https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8
-#EXTINF:-1 tvg-id="Юмор FM" tvg-name="Юмор FM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Yumor_FM_logo_2015.png" group-title="Радио",Юмор FM
-http://live.humorfm.by:8000/veseloe.m3u
 #EXTINF:-1 tvg-id="Яблоко от яблони" tvg-name="Яблоко от яблони" tvg-logo="" group-title="XXX 18+",Яблоко от яблони
 https://video3.tizam.cc/films/chip-off-the-ol-block-russ.mp4
 #EXTINF:-1 tvg-id="Якутия 24" tvg-name="Якутия 24" tvg-logo="https://epg.iptvx.one/picons/yakutia24.png" group-title="Региональные",Якутия 24
